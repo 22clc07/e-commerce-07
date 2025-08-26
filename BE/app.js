@@ -3,7 +3,7 @@ const app = express();
 const cors = require("cors");
 
 const allowedOrigins = [
-  "https://e-commerce-zeta-lemon.vercel.app",
+  "https://e-commerce-07.vercel.app/",
   "http://localhost:3000",
   "https://localhost:3000",
 ];
